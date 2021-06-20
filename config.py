@@ -1,0 +1,4 @@
+MYSQL_PASS='mypass'
+MYSQL_IP='10.150.108.168'
+MYSQL_PORT=3306
+MYSQL_DB='apiframework'
